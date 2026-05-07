@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="lez01_variabili/lez01_variabili.csproj" />
+  <Project Path="lez02_classi/lez02_classi.csproj" Id="e62dc9b8-5919-4897-b812-835241d0e919" />
+  <Project Path="lez03_ereditarieta/lez03_ereditarieta.csproj" Id="97ed8b47-e43b-42b0-9216-13b19c908bb0" />
+  <Project Path="lez04_astrazione/lez04_astrazione.csproj" Id="f27a17de-f0c0-4118-b475-6a49d3ef08eb" />
+  <Project Path="lez05_interfacce/lez05_interfacce.csproj" Id="eee8c011-24c2-4498-bd49-909ec8a1a799" />
+</Solution>

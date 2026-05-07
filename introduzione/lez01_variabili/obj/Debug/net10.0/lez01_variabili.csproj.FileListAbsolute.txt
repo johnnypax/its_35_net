@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\bin\Debug\net10.0\lez01_variabili.exe
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\bin\Debug\net10.0\lez01_variabili.deps.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\bin\Debug\net10.0\lez01_variabili.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\bin\Debug\net10.0\lez01_variabili.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\bin\Debug\net10.0\lez01_variabili.pdb
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\refint\lez01_variabili.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.pdb
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\lez01_variabili.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez01_variabili\obj\Debug\net10.0\ref\lez01_variabili.dll

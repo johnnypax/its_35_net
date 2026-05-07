@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\bin\Debug\net10.0\lez02_classi.exe
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\bin\Debug\net10.0\lez02_classi.deps.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\bin\Debug\net10.0\lez02_classi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\bin\Debug\net10.0\lez02_classi.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\bin\Debug\net10.0\lez02_classi.pdb
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\refint\lez02_classi.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.pdb
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\lez02_classi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\lez01_variabili\lez02_classi\obj\Debug\net10.0\ref\lez02_classi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lez03_ereditarieta/1.0.0": {
+        "runtime": {
+          "lez03_ereditarieta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez03_ereditarieta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
