@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez02_classi\\lez02_classi.csproj": {}
+    "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez02_classi\\lez02_classi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez02_classi\\lez02_classi.csproj": {
+    "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez02_classi\\lez02_classi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez02_classi\\lez02_classi.csproj",
+        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez02_classi\\lez02_classi.csproj",
         "projectName": "lez02_classi",
-        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez02_classi\\lez02_classi.csproj",
+        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez02_classi\\lez02_classi.csproj",
         "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez02_classi\\obj\\",
+        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez02_classi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

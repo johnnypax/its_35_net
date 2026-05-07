@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\lez05_interfacce.csproj",
+      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\lez05_interfacce.csproj",
       "projectName": "lez05_interfacce",
-      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\lez05_interfacce.csproj",
+      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\lez05_interfacce.csproj",
       "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\obj\\",
+      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

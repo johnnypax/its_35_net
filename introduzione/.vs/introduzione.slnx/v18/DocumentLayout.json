@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\",
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez01_variabili\\lez05_interfacce\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|solutionrelative:lez05_interfacce\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\introduzione\\lez05_interfacce\\lez05_interfacce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|solutionrelative:lez05_interfacce\\lez05_interfacce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez01_variabili\\lez05_interfacce\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|solutionrelative:lez05_interfacce\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez01_variabili\\lez05_interfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\introduzione\\lez05_interfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|solutionrelative:lez05_interfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27A17DE-F0C0-4118-B475-6A49D3EF08EB}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez01_variabili\\lez04_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\introduzione\\lez05_interfacce\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|solutionrelative:lez05_interfacce\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\introduzione\\lez05_interfacce\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE8C011-24C2-4498-BD49-909EC8A1A799}|lez05_interfacce\\lez05_interfacce.csproj|solutionrelative:lez05_interfacce\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27A17DE-F0C0-4118-B475-6A49D3EF08EB}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\introduzione\\lez04_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27A17DE-F0C0-4118-B475-6A49D3EF08EB}|lez04_astrazione\\lez04_astrazione.csproj|solutionrelative:lez04_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27A17DE-F0C0-4118-B475-6A49D3EF08EB}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez01_variabili\\lez04_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27A17DE-F0C0-4118-B475-6A49D3EF08EB}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\introduzione\\lez04_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27A17DE-F0C0-4118-B475-6A49D3EF08EB}|lez04_astrazione\\lez04_astrazione.csproj|solutionrelative:lez04_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,67 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "lez05_interfacce",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\lez05_interfacce.csproj",
+              "RelativeDocumentMoniker": "lez05_interfacce\\lez05_interfacce.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\lez05_interfacce.csproj",
+              "RelativeToolTip": "lez05_interfacce\\lez05_interfacce.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T14:02:57.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cane.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\Classes\\Cane.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\Classes\\Cane.cs",
               "RelativeDocumentMoniker": "lez05_interfacce\\Classes\\Cane.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\Classes\\Cane.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\Classes\\Cane.cs",
               "RelativeToolTip": "lez05_interfacce\\Classes\\Cane.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T13:23:49.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Animale.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\Classes\\Animale.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\Classes\\Animale.cs",
               "RelativeDocumentMoniker": "lez05_interfacce\\Classes\\Animale.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\Classes\\Animale.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\Classes\\Animale.cs",
               "RelativeToolTip": "lez05_interfacce\\Classes\\Animale.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:23:21.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:23:21.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\Program.cs",
               "RelativeDocumentMoniker": "lez05_interfacce\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez05_interfacce\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez05_interfacce\\Program.cs",
               "RelativeToolTip": "lez05_interfacce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T13:23:14.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\Program.cs",
               "RelativeDocumentMoniker": "lez04_astrazione\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\Program.cs",
               "RelativeToolTip": "lez04_astrazione\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:14:07.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:14:07.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Animale.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\Classes\\Animale.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\Classes\\Animale.cs",
               "RelativeDocumentMoniker": "lez04_astrazione\\Classes\\Animale.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\Classes\\Animale.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\Classes\\Animale.cs",
               "RelativeToolTip": "lez04_astrazione\\Classes\\Animale.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:16:54.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:16:54.588Z"
             }
           ]
         }

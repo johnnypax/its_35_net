@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez01_variabili")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e170537f5925b614a084300d21eb5ed2114dde")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez01_variabili")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez01_variabili")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

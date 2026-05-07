@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\lez04_astrazione.csproj",
+      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\lez04_astrazione.csproj",
       "projectName": "lez04_astrazione",
-      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\lez04_astrazione.csproj",
+      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\lez04_astrazione.csproj",
       "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez01_variabili\\lez04_astrazione\\obj\\",
+      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\introduzione\\lez04_astrazione\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

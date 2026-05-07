@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez03_ereditarieta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e170537f5925b614a084300d21eb5ed2114dde")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez03_ereditarieta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez03_ereditarieta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
