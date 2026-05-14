@@ -1,0 +1,6 @@
+@lez06_minimal_intro_HostAddress = http://localhost:5207
+
+GET {{lez06_minimal_intro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

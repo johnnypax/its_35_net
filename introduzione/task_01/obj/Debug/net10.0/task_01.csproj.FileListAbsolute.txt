@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\bin\Debug\net10.0\task_01.exe
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\bin\Debug\net10.0\task_01.deps.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\bin\Debug\net10.0\task_01.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\bin\Debug\net10.0\task_01.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\bin\Debug\net10.0\task_01.pdb
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.sourcelink.json
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\refint\task_01.dll
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.pdb
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\task_01.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\NET_35_ITS\introduzione\task_01\obj\Debug\net10.0\ref\task_01.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez05_interfacce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e170537f5925b614a084300d21eb5ed2114dde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30af21243b1718267a9ebc2b1f8ac09745a977ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez05_interfacce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez05_interfacce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

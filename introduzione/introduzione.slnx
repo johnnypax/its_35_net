@@ -4,4 +4,5 @@
   <Project Path="lez03_ereditarieta/lez03_ereditarieta.csproj" Id="97ed8b47-e43b-42b0-9216-13b19c908bb0" />
   <Project Path="lez04_astrazione/lez04_astrazione.csproj" Id="f27a17de-f0c0-4118-b475-6a49d3ef08eb" />
   <Project Path="lez05_interfacce/lez05_interfacce.csproj" Id="eee8c011-24c2-4498-bd49-909ec8a1a799" />
+  <Project Path="task_01/task_01.csproj" Id="2b6f96fb-0cfa-4ce4-b0fe-26b7018a7083" />
 </Solution>
