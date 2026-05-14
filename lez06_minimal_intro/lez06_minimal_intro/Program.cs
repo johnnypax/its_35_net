@@ -31,6 +31,12 @@ app.MapPost("/utente/inserisci", (Utente u) =>
     return $"Nome: {u.Nominativo} età: {u.Eta}";
 });
 
+app.MapGet("/conritardo", async () =>
+{
+    await Task.Delay(5000);
+    return "Arrivato con ritardo";
+});
+
 
 app.Run();
 

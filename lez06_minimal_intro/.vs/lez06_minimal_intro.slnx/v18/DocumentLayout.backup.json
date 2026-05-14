@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez06_minimal_intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FC82433-E2AC-4028-B95A-6AC08EA7BC8D}|lez06_minimal_intro\\lez06_minimal_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez06_minimal_intro\\lez06_minimal_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC82433-E2AC-4028-B95A-6AC08EA7BC8D}|lez06_minimal_intro\\lez06_minimal_intro.csproj|solutionrelative:lez06_minimal_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76B3F63E-066E-9BF1-E9B6-9AC4D3AA3E99}|lez06_minimal_intro\\lez06_minimal_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez06_minimal_intro\\lez06_minimal_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B3F63E-066E-9BF1-E9B6-9AC4D3AA3E99}|lez06_minimal_intro\\lez06_minimal_intro.csproj|solutionrelative:lez06_minimal_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC82433-E2AC-4028-B95A-6AC08EA7BC8D}|lez06_minimal_intro\\lez06_minimal_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez06_minimal_intro\\lez06_minimal_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1FC82433-E2AC-4028-B95A-6AC08EA7BC8D}|lez06_minimal_intro\\lez06_minimal_intro.csproj|solutionrelative:lez06_minimal_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{76B3F63E-066E-9BF1-E9B6-9AC4D3AA3E99}|lez06_minimal_intro\\lez06_minimal_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez06_minimal_intro\\lez06_minimal_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76B3F63E-066E-9BF1-E9B6-9AC4D3AA3E99}|lez06_minimal_intro\\lez06_minimal_intro.csproj|solutionrelative:lez06_minimal_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC82433-E2AC-4028-B95A-6AC08EA7BC8D}|lez06_minimal_intro\\lez06_minimal_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez06_minimal_intro\\lez06_minimal_intro\\lez06_minimal_intro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1FC82433-E2AC-4028-B95A-6AC08EA7BC8D}|lez06_minimal_intro\\lez06_minimal_intro.csproj|solutionrelative:lez06_minimal_intro\\lez06_minimal_intro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{76B3F63E-066E-9BF1-E9B6-9AC4D3AA3E99}|lez06_minimal_intro\\lez06_minimal_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez06_minimal_intro\\lez06_minimal_intro\\lez06_minimal_intro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{76B3F63E-066E-9BF1-E9B6-9AC4D3AA3E99}|lez06_minimal_intro\\lez06_minimal_intro.csproj|solutionrelative:lez06_minimal_intro\\lez06_minimal_intro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -38,8 +34,7 @@
               "RelativeToolTip": "lez06_minimal_intro\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-14T07:52:29.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T07:52:29.873Z"
             },
             {
               "$type": "Document",
@@ -50,8 +45,7 @@
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez06_minimal_intro\\lez06_minimal_intro\\lez06_minimal_intro.csproj",
               "RelativeToolTip": "lez06_minimal_intro\\lez06_minimal_intro.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-14T07:52:27.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T07:52:27.194Z"
             },
             {
               "$type": "Document",
@@ -61,7 +55,7 @@
               "RelativeDocumentMoniker": "lez06_minimal_intro\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez06_minimal_intro\\lez06_minimal_intro\\Program.cs",
               "RelativeToolTip": "lez06_minimal_intro\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T07:48:20.241Z",
               "EditorCaption": ""
