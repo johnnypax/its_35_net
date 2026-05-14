@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DD80571-0897-5053-ABE6-DA1EAC1D6E47}|lez07_minimal_CRUD\\lez07_minimal_CRUD.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez07_minimal_crud\\lez07_minimal_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD80571-0897-5053-ABE6-DA1EAC1D6E47}|lez07_minimal_CRUD\\lez07_minimal_CRUD.csproj|solutionrelative:lez07_minimal_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E70CA3BE-34D7-4BA5-8D50-5C0AC2C1C4A7}|lez08_minimal_otm\\lez08_minimal_otm.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez07_minimal_crud\\lez08_minimal_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70CA3BE-34D7-4BA5-8D50-5C0AC2C1C4A7}|lez08_minimal_otm\\lez08_minimal_otm.csproj|solutionrelative:lez08_minimal_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70CA3BE-34D7-4BA5-8D50-5C0AC2C1C4A7}|lez08_minimal_otm\\lez08_minimal_otm.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez07_minimal_crud\\lez08_minimal_otm\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70CA3BE-34D7-4BA5-8D50-5C0AC2C1C4A7}|lez08_minimal_otm\\lez08_minimal_otm.csproj|solutionrelative:lez08_minimal_otm\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70CA3BE-34D7-4BA5-8D50-5C0AC2C1C4A7}|lez08_minimal_otm\\lez08_minimal_otm.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez07_minimal_crud\\lez08_minimal_otm\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70CA3BE-34D7-4BA5-8D50-5C0AC2C1C4A7}|lez08_minimal_otm\\lez08_minimal_otm.csproj|solutionrelative:lez08_minimal_otm\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez07_minimal_CRUD\\Program.cs",
-              "RelativeDocumentMoniker": "lez07_minimal_CRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez07_minimal_CRUD\\Program.cs",
-              "RelativeToolTip": "lez07_minimal_CRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez08_minimal_otm\\Program.cs",
+              "RelativeDocumentMoniker": "lez08_minimal_otm\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez08_minimal_otm\\Program.cs",
+              "RelativeToolTip": "lez08_minimal_otm\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:21:38.397Z",
+              "WhenOpened": "2026-05-14T14:24:21.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autore.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez08_minimal_otm\\Models\\Autore.cs",
+              "RelativeDocumentMoniker": "lez08_minimal_otm\\Models\\Autore.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez08_minimal_otm\\Models\\Autore.cs",
+              "RelativeToolTip": "lez08_minimal_otm\\Models\\Autore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:21:37.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez08_minimal_otm\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "lez08_minimal_otm\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez08_minimal_otm\\Models\\Libro.cs",
+              "RelativeToolTip": "lez08_minimal_otm\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:21:30.394Z",
               "EditorCaption": ""
             }
           ]

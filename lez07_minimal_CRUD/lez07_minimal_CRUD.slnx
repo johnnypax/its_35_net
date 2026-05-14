@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="lez07_minimal_CRUD/lez07_minimal_CRUD.csproj" />
+  <Project Path="lez08_minimal_otm/lez08_minimal_otm.csproj" Id="e70ca3be-34d7-4ba5-8d50-5c0ac2c1c4a7" />
 </Solution>

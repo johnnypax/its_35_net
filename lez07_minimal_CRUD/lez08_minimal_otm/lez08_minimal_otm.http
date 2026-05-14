@@ -1,0 +1,6 @@
+@lez08_minimal_otm_HostAddress = http://localhost:5190
+
+GET {{lez08_minimal_otm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
