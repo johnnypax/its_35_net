@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71217C58-356C-4FB1-B599-648EAB10A9AA}|lez07_minimal_CRUD\\lez07_minimal_CRUD.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez07_minimal_crud\\lez07_minimal_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71217C58-356C-4FB1-B599-648EAB10A9AA}|lez07_minimal_CRUD\\lez07_minimal_CRUD.csproj|solutionrelative:lez07_minimal_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DD80571-0897-5053-ABE6-DA1EAC1D6E47}|lez07_minimal_CRUD\\lez07_minimal_CRUD.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez07_minimal_crud\\lez07_minimal_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD80571-0897-5053-ABE6-DA1EAC1D6E47}|lez07_minimal_CRUD\\lez07_minimal_CRUD.csproj|solutionrelative:lez07_minimal_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "lez07_minimal_CRUD\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez07_minimal_CRUD\\lez07_minimal_CRUD\\Program.cs",
               "RelativeToolTip": "lez07_minimal_CRUD\\Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAuwGMAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T09:21:38.397Z",
               "EditorCaption": ""

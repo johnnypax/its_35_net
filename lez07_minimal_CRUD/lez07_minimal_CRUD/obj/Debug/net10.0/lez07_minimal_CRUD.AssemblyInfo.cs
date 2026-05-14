@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez07_minimal_CRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae79c59509e588347d7c808b4508b75c139bd60b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7cb55f503a6d64a42ca8e3b07ff418ace99c501")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez07_minimal_CRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez07_minimal_CRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
