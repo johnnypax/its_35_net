@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "lez08_videoteca.Controllers.VideocassettaController",
+    "Method": "insertVideocassetta",
+    "RelativePath": "api/videocassetta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objVideo",
+        "Type": "lez08_videoteca.models.Videocassettum",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "lez08_videoteca.Controllers.VideocassettaController",
+    "Method": "getByIdVideocassetta",
+    "RelativePath": "api/videocassetta/{varCodi}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodi",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "lez08_videoteca.models.Videocassettum",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "lez08_videoteca.Controllers.VideocassettaController",
+    "Method": "getAllVideocassette",
+    "RelativePath": "api/videocassetta/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[lez08_videoteca.models.Videocassettum, lez08_videoteca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

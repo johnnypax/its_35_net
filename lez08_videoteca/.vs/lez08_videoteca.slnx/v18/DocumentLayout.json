@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\models\\ict35videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\models\\ict35videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\controllers\\videocassettacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\controllers\\videocassettacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\models\\videocassettum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\models\\videocassettum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\lez08_videoteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\lez08_videoteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90ED7A34-E552-48E7-B767-A6EE7C7E42DE}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez08_videoteca\\lez08_videoteca\\models\\ict35videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B593F6-3B54-2E32-574E-7DF17F08245E}|lez08_videoteca\\lez08_videoteca.csproj|solutionrelative:lez08_videoteca\\models\\ict35videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,89 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Videocassettum.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Videocassettum.cs",
-              "RelativeDocumentMoniker": "lez08_videoteca\\models\\Videocassettum.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Videocassettum.cs",
-              "RelativeToolTip": "lez08_videoteca\\models\\Videocassettum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T10:58:38.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Utente.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Utente.cs",
-              "RelativeDocumentMoniker": "lez08_videoteca\\models\\Utente.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Utente.cs",
-              "RelativeToolTip": "lez08_videoteca\\models\\Utente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T10:58:22.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Prestito.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Prestito.cs",
-              "RelativeDocumentMoniker": "lez08_videoteca\\models\\Prestito.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Prestito.cs",
-              "RelativeToolTip": "lez08_videoteca\\models\\Prestito.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T10:58:19.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ict35VideotecaContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Ict35VideotecaContext.cs",
-              "RelativeDocumentMoniker": "lez08_videoteca\\models\\Ict35VideotecaContext.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Ict35VideotecaContext.cs",
-              "RelativeToolTip": "lez08_videoteca\\models\\Ict35VideotecaContext.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwD4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T10:35:48.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "lez08_videoteca",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\lez08_videoteca.csproj",
-              "RelativeDocumentMoniker": "lez08_videoteca\\lez08_videoteca.csproj",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\lez08_videoteca.csproj",
-              "RelativeToolTip": "lez08_videoteca\\lez08_videoteca.csproj",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-18T10:33:31.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\appsettings.json",
               "RelativeDocumentMoniker": "lez08_videoteca\\appsettings.json",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\appsettings.json",
               "RelativeToolTip": "lez08_videoteca\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-18T09:47:40.739Z",
+              "WhenOpened": "2026-05-18T12:44:45.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "lez08_videoteca\\Properties\\launchSettings.json",
@@ -132,21 +55,44 @@
               "RelativeToolTip": "lez08_videoteca\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-18T09:47:07.092Z",
+              "WhenOpened": "2026-05-18T12:44:42.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideocassettaController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\Controllers\\VideocassettaController.cs",
+              "RelativeDocumentMoniker": "lez08_videoteca\\Controllers\\VideocassettaController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\Controllers\\VideocassettaController.cs",
+              "RelativeToolTip": "lez08_videoteca\\Controllers\\VideocassettaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:23:25.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Ict35VideotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Ict35VideotecaContext.cs",
+              "RelativeDocumentMoniker": "lez08_videoteca\\models\\Ict35VideotecaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\models\\Ict35VideotecaContext.cs",
+              "RelativeToolTip": "lez08_videoteca\\models\\Ict35VideotecaContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:20:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\Program.cs",
               "RelativeDocumentMoniker": "lez08_videoteca\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez08_videoteca\\lez08_videoteca\\Program.cs",
               "RelativeToolTip": "lez08_videoteca\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T09:39:32.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T09:39:32.762Z"
             }
           ]
         }

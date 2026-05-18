@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "lez09_mapping_manuale.Controllers.UtenteController",
+    "Method": "getAllUtenti",
+    "RelativePath": "api/utenti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[lez09_mapping_manuale.Models.Utente, lez09_mapping_manuale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

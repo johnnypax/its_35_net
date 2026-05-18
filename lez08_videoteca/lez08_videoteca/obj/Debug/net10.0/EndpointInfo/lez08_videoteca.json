@@ -1,0 +1,240 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "lez08_videoteca | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7167"
+    },
+    {
+      "url": "http://localhost:5197"
+    }
+  ],
+  "paths": {
+    "/api/videocassetta/lista": {
+      "get": {
+        "tags": [
+          "Videocassetta"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videocassettum"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videocassettum"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videocassettum"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/videocassetta/{varCodi}": {
+      "get": {
+        "tags": [
+          "Videocassetta"
+        ],
+        "parameters": [
+          {
+            "name": "varCodi",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videocassettum"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videocassettum"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videocassettum"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/videocassetta": {
+      "post": {
+        "tags": [
+          "Videocassetta"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videocassettum"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videocassettum"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videocassettum"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Prestito": {
+        "type": "object",
+        "properties": {
+          "dataPrestito": {
+            "type": [
+              "null",
+              "string"
+            ],
+            "format": "date-time"
+          },
+          "videocassettaRif": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "utenteRif": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "utenteRifNavigation": {
+            "$ref": "#/components/schemas/Utente"
+          },
+          "videocassettaRifNavigation": {
+            "$ref": "#/components/schemas/Videocassettum"
+          }
+        }
+      },
+      "Utente": {
+        "type": "object",
+        "properties": {
+          "utenteId": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string"
+          },
+          "cognome": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "prestitos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Prestito"
+            }
+          }
+        }
+      },
+      "Videocassettum": {
+        "type": "object",
+        "properties": {
+          "videocassettaId": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "titolo": {
+            "type": "string"
+          },
+          "genere": {
+            "type": "string"
+          },
+          "regista": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "anno": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "null",
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "codice": {
+            "type": "string"
+          },
+          "prestitos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Prestito"
+            }
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Videocassetta"
+    }
+  ]
+}

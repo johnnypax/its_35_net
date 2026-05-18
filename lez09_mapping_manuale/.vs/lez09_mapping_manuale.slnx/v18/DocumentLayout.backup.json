@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez09_mapping_manuale\\lez09_mapping_manuale\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|solutionrelative:lez09_mapping_manuale\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez09_mapping_manuale\\lez09_mapping_manuale\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|solutionrelative:lez09_mapping_manuale\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez09_mapping_manuale\\lez09_mapping_manuale\\context\\videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|solutionrelative:lez09_mapping_manuale\\context\\videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez09_mapping_manuale\\lez09_mapping_manuale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|solutionrelative:lez09_mapping_manuale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez09_mapping_manuale\\lez09_mapping_manuale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81AB8D4F-96F1-4C6F-B45F-E30E7003EE43}|lez09_mapping_manuale\\lez09_mapping_manuale.csproj|solutionrelative:lez09_mapping_manuale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Controllers\\UtenteController.cs",
+              "RelativeDocumentMoniker": "lez09_mapping_manuale\\Controllers\\UtenteController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Controllers\\UtenteController.cs",
+              "RelativeToolTip": "lez09_mapping_manuale\\Controllers\\UtenteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:22:07.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Context\\VideotecaContext.cs",
+              "RelativeDocumentMoniker": "lez09_mapping_manuale\\Context\\VideotecaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Context\\VideotecaContext.cs",
+              "RelativeToolTip": "lez09_mapping_manuale\\Context\\VideotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:08:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "lez09_mapping_manuale\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Models\\Utente.cs",
+              "RelativeToolTip": "lez09_mapping_manuale\\Models\\Utente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:06:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Program.cs",
+              "RelativeDocumentMoniker": "lez09_mapping_manuale\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\Program.cs",
+              "RelativeToolTip": "lez09_mapping_manuale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:57:03.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\appsettings.json",
+              "RelativeDocumentMoniker": "lez09_mapping_manuale\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez09_mapping_manuale\\lez09_mapping_manuale\\appsettings.json",
+              "RelativeToolTip": "lez09_mapping_manuale\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T13:57:09.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
