@@ -1,0 +1,6 @@
+@lez10_officine_otm_HostAddress = http://localhost:5174
+
+GET {{lez10_officine_otm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
