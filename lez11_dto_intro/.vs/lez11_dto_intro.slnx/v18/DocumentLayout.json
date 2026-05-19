@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\services\\interventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\services\\interventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\repositories\\interventirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\repositories\\interventirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\context\\officinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\context\\officinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|c:\\users\\academy\\source\\repos\\net_35_its\\lez11_dto_intro\\lez11_dto_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2915BD84-448B-DD3A-7A2A-A576B0E9D165}|lez11_dto_intro\\lez11_dto_intro.csproj|solutionrelative:lez11_dto_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Services\\ClienteService.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:25:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterventiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Repositories\\InterventiRepository.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Repositories\\InterventiRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Repositories\\InterventiRepository.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Repositories\\InterventiRepository.cs",
+              "ViewState": "AgIAAB8AAAAA2GRqkFMSwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:23:13.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:20:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA8wBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:30:57.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterventoService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Services\\InterventoService.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Services\\InterventoService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Services\\InterventoService.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Services\\InterventoService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:42:59.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:19:11.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OfficinaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Context\\OfficinaContext.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Context\\OfficinaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Context\\OfficinaContext.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Context\\OfficinaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:14:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterventoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Models\\InterventoDTO.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Models\\InterventoDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Models\\InterventoDTO.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Models\\InterventoDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:10:45.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Models\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Models\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Models\\ClienteDTO.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Models\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:08:26.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\Models\\Cliente.cs",
+              "RelativeToolTip": "lez11_dto_intro\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:06:37.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\appsettings.json",
+              "RelativeDocumentMoniker": "lez11_dto_intro\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\NET_35_ITS\\lez11_dto_intro\\lez11_dto_intro\\appsettings.json",
+              "RelativeToolTip": "lez11_dto_intro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T10:05:23.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
